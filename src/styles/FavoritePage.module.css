@@ -1,0 +1,47 @@
+.favorite {
+    display: flex;
+    justify-content: center;
+}
+
+.favorite ul {
+    width: 400px;
+    list-style-type: none;
+    padding: 1rem;
+}
+
+.img {
+    width: 3rem;
+    margin-right: 1rem;
+}
+
+.img img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.favorite>ul>li {
+    display: flex;
+    margin-bottom: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    background: whitesmoke;
+    border-radius: 0.25rem;
+    position: relative;
+    padding: 1rem;
+}
+
+.remove {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: red !important;
+    cursor: pointer;
+    transition: all 0.1s ease;
+}
+
+.remove:hover {
+    transform: scale(1.2);
+}
+
+.favorite h2 {
+    width: 90%;
+}

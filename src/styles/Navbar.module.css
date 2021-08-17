@@ -1,0 +1,34 @@
+.navbar {
+    width: 100%;
+    height: 3rem;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.navbar nav {
+    width: 1440px;
+    max-width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.navlink {
+    padding-left: 1rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-weight: 600;
+    color: rgba(3, 102, 214, 0.8);
+}
+
+.navlink:hover {
+    transform: scale(1.05);
+    color: rgba(3, 102, 214, 1);
+}
