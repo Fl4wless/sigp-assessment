@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sigp-assessment/static/css/main.3eaaa664.chunk.css",
-    "main.js": "/sigp-assessment/static/js/main.6e4de5eb.chunk.js",
-    "main.js.map": "/sigp-assessment/static/js/main.6e4de5eb.chunk.js.map",
+    "main.js": "/sigp-assessment/static/js/main.e1497e28.chunk.js",
+    "main.js.map": "/sigp-assessment/static/js/main.e1497e28.chunk.js.map",
     "runtime-main.js": "/sigp-assessment/static/js/runtime-main.9793aa8b.js",
     "runtime-main.js.map": "/sigp-assessment/static/js/runtime-main.9793aa8b.js.map",
     "static/js/2.5a580c49.chunk.js": "/sigp-assessment/static/js/2.5a580c49.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9793aa8b.js",
     "static/js/2.5a580c49.chunk.js",
     "static/css/main.3eaaa664.chunk.css",
-    "static/js/main.6e4de5eb.chunk.js"
+    "static/js/main.e1497e28.chunk.js"
   ]
 }
