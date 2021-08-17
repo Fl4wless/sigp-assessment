@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sigp-assessment/static/css/main.3eaaa664.chunk.css",
-    "main.js": "/sigp-assessment/static/js/main.38b3df69.chunk.js",
-    "main.js.map": "/sigp-assessment/static/js/main.38b3df69.chunk.js.map",
+    "main.js": "/sigp-assessment/static/js/main.6e4de5eb.chunk.js",
+    "main.js.map": "/sigp-assessment/static/js/main.6e4de5eb.chunk.js.map",
     "runtime-main.js": "/sigp-assessment/static/js/runtime-main.9793aa8b.js",
     "runtime-main.js.map": "/sigp-assessment/static/js/runtime-main.9793aa8b.js.map",
-    "static/js/2.84c71650.chunk.js": "/sigp-assessment/static/js/2.84c71650.chunk.js",
-    "static/js/2.84c71650.chunk.js.map": "/sigp-assessment/static/js/2.84c71650.chunk.js.map",
+    "static/js/2.5a580c49.chunk.js": "/sigp-assessment/static/js/2.5a580c49.chunk.js",
+    "static/js/2.5a580c49.chunk.js.map": "/sigp-assessment/static/js/2.5a580c49.chunk.js.map",
     "static/js/3.f731c159.chunk.js": "/sigp-assessment/static/js/3.f731c159.chunk.js",
     "static/js/3.f731c159.chunk.js.map": "/sigp-assessment/static/js/3.f731c159.chunk.js.map",
     "index.html": "/sigp-assessment/index.html",
     "static/css/main.3eaaa664.chunk.css.map": "/sigp-assessment/static/css/main.3eaaa664.chunk.css.map",
-    "static/js/2.84c71650.chunk.js.LICENSE.txt": "/sigp-assessment/static/js/2.84c71650.chunk.js.LICENSE.txt"
+    "static/js/2.5a580c49.chunk.js.LICENSE.txt": "/sigp-assessment/static/js/2.5a580c49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9793aa8b.js",
-    "static/js/2.84c71650.chunk.js",
+    "static/js/2.5a580c49.chunk.js",
     "static/css/main.3eaaa664.chunk.css",
-    "static/js/main.38b3df69.chunk.js"
+    "static/js/main.6e4de5eb.chunk.js"
   ]
 }
